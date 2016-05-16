@@ -1,5 +1,6 @@
 source https://nuget.org/api/v2
 nuget Baseline
+nuget Microsoft.CodeAnalysis.CSharp
 nuget Shouldly
 nuget xunit
 nuget xunit.runner.console
